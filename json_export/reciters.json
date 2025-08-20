@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "name": "إبراهيم الأخضر",
+    "riwaya_id": 1,
+    "server_url": "https://server6.mp3quran.net/akdr/",
+    "has_timing": 1
+  },
+  {
+    "id": 5,
+    "name": "أحمد بن علي العجمي",
+    "riwaya_id": 1,
+    "server_url": "https://server10.mp3quran.net/ajm/",
+    "has_timing": 1
+  },
+  {
+    "id": 9,
+    "name": "أحمد نعينع",
+    "riwaya_id": 1,
+    "server_url": "https://server11.mp3quran.net/ahmad_nu/",
+    "has_timing": 1
+  },
+  {
+    "id": 10,
+    "name": "أكرم العلاقمي",
+    "riwaya_id": 1,
+    "server_url": "https://server9.mp3quran.net/akrm/",
+    "has_timing": 1
+  },
+  {
+    "id": 31,
+    "name": "سعود الشريم",
+    "riwaya_id": 1,
+    "server_url": "https://server7.mp3quran.net/shur/",
+    "has_timing": 1
+  },
+  {
+    "id": 32,
+    "name": "سهل ياسين",
+    "riwaya_id": 1,
+    "server_url": "https://server6.mp3quran.net/shl/",
+    "has_timing": 1
+  },
+  {
+    "id": 53,
+    "name": "عبدالباسط عبدالصمد",
+    "riwaya_id": 1,
+    "server_url": "https://server7.mp3quran.net/basit/",
+    "has_timing": 1
+  },
+  {
+    "id": 60,
+    "name": "عبدالله بصفر",
+    "riwaya_id": 1,
+    "server_url": "https://server6.mp3quran.net/bsfr/",
+    "has_timing": 1
+  },
+  {
+    "id": 62,
+    "name": "عبدالله عواد الجهني",
+    "riwaya_id": 1,
+    "server_url": "https://server13.mp3quran.net/jhn/",
+    "has_timing": 1
+  },
+  {
+    "id": 67,
+    "name": "عبدالمحسن القاسم",
+    "riwaya_id": 1,
+    "server_url": "https://server8.mp3quran.net/qasm/",
+    "has_timing": 1
+  },
+  {
+    "id": 74,
+    "name": "علي بن عبدالرحمن الحذيفي",
+    "riwaya_id": 1,
+    "server_url": "https://server9.mp3quran.net/hthfi/",
+    "has_timing": 1
+  },
+  {
+    "id": 77,
+    "name": "علي حجاج السويسي",
+    "riwaya_id": 1,
+    "server_url": "https://server9.mp3quran.net/hajjaj/",
+    "has_timing": 1
+  },
+  {
+    "id": 78,
+    "name": "عماد زهير حافظ",
+    "riwaya_id": 1,
+    "server_url": "https://server6.mp3quran.net/hafz/",
+    "has_timing": 1
+  },
+  {
+    "id": 106,
+    "name": "محمد الطبلاوي",
+    "riwaya_id": 1,
+    "server_url": "https://server12.mp3quran.net/tblawi/",
+    "has_timing": 1
+  },
+  {
+    "id": 112,
+    "name": "محمد صديق المنشاوي",
+    "riwaya_id": 1,
+    "server_url": "https://server10.mp3quran.net/minsh/",
+    "has_timing": 1
+  },
+  {
+    "id": 118,
+    "name": "محمود خليل الحصري",
+    "riwaya_id": 1,
+    "server_url": "https://server13.mp3quran.net/husr/",
+    "has_timing": 1
+  },
+  {
+    "id": 159,
+    "name": "خالد المهنا",
+    "riwaya_id": 1,
+    "server_url": "https://server11.mp3quran.net/mohna/",
+    "has_timing": 1
+  },
+  {
+    "id": 256,
+    "name": "أحمد خليل شاهين",
+    "riwaya_id": 1,
+    "server_url": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+    "has_timing": 1
+  },
+  {
+    "id": 257,
+    "name": "إبراهيم الدوسري",
+    "riwaya_id": 2,
+    "server_url": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi",
+    "has_timing": 0
+  },
+  {
+    "id": 258,
+    "name": "العيون الكوشي",
+    "riwaya_id": 2,
+    "server_url": "https://server11.mp3quran.net/koshi",
+    "has_timing": 0
+  },
+  {
+    "id": 259,
+    "name": "القارئ ياسين",
+    "riwaya_id": 2,
+    "server_url": "https://server11.mp3quran.net/qari",
+    "has_timing": 0
+  },
+  {
+    "id": 260,
+    "name": "رشيد بلعالية",
+    "riwaya_id": 2,
+    "server_url": "https://server6.mp3quran.net/bl3/Rewayat-Warsh-A-n-Nafi",
+    "has_timing": 0
+  },
+  {
+    "id": 261,
+    "name": "عبدالباسط عبدالصمد ",
+    "riwaya_id": 2,
+    "server_url": "https://server7.mp3quran.net/basit/Rewayat-Warsh-A-n-Nafi",
+    "has_timing": 0
+  },
+  {
+    "id": 262,
+    "name": "عمر القزابري",
+    "riwaya_id": 2,
+    "server_url": "https://server9.mp3quran.net/omar_warsh",
+    "has_timing": 0
+  },
+  {
+    "id": 263,
+    "name": "محمد سايد",
+    "riwaya_id": 2,
+    "server_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi",
+    "has_timing": 0
+  },
+  {
+    "id": 264,
+    "name": "محمد عبدالكريم",
+    "riwaya_id": 2,
+    "server_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/",
+    "has_timing": 0
+  },
+  {
+    "id": 265,
+    "name": "محمود خليل الحصري",
+    "riwaya_id": 2,
+    "server_url": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi",
+    "has_timing": 0
+  },
+  {
+    "id": 266,
+    "name": "أحمد الحواشي",
+    "riwaya_id": 1,
+    "server_url": "https://server11.mp3quran.net/hawashi",
+    "has_timing": 0
+  },
+  {
+    "id": 267,
+    "name": "أحمد خضر الطرابلسي",
+    "riwaya_id": 5,
+    "server_url": "https://server10.mp3quran.net/trablsi",
+    "has_timing": 0
+  },
+  {
+    "id": 268,
+    "name": "أحمد ديبان",
+    "riwaya_id": 4,
+    "server_url": "https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer",
+    "has_timing": 0
+  },
+  {
+    "id": 269,
+    "name": "أحمد ديبان",
+    "riwaya_id": 6,
+    "server_url": "https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer",
+    "has_timing": 0
+  },
+  {
+    "id": 270,
+    "name": "أحمد ديبان",
+    "riwaya_id": 13,
+    "server_url": "https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr",
+    "has_timing": 0
+  },
+  {
+    "id": 271,
+    "name": "عبدالرشيد صوفي",
+    "riwaya_id": 3,
+    "server_url": "https://server16.mp3quran.net/soufi/Rewayat-Khalaf-A-n-Hamzah",
+    "has_timing": 0
+  },
+  {
+    "id": 272,
+    "name": "عبدالرشيد صوفي",
+    "riwaya_id": 7,
+    "server_url": "https://server16.mp3quran.net/soufi/Rewayat-Assosi-A-n-Abi-Amr",
+    "has_timing": 0
+  },
+  {
+    "id": 273,
+    "name": "محمد عبدالحكيم العبدالله",
+    "riwaya_id": 6,
+    "server_url": "https://server9.mp3quran.net/abdullah",
+    "has_timing": 0
+  },
+  {
+    "id": 274,
+    "name": "محمد عبدالحكيم العبدالله",
+    "riwaya_id": 12,
+    "server_url": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+    "has_timing": 0
+  },
+  {
+    "id": 275,
+    "name": "مفتاح السلطني",
+    "riwaya_id": 16,
+    "server_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer",
+    "has_timing": 0
+  }
+]
